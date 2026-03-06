@@ -1,11 +1,11 @@
-<h1 align="center">Hi,I´m Ignacio</h1>
+<h1 align="center">Hi, I´m Ignacio</h1>
 <h3 align="center">Software developer and Systems Engineering student from Argentina.</h3>
 
 - 🔭 I’m currently working on **- JavaScript / Node.js - React - Python - SQL - Linux**
 
-- 👨‍💻 Mi portfolio: [ignaoviedo.com](ignaoviedo.com)
+- 👨‍💻 portfolio: [ignaoviedo.com](ignaoviedo.com)
 
-- 📫 Correo: **ignaoviedo35@gmail.com**
+- 📫 Contact: **ignaoviedo35@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
